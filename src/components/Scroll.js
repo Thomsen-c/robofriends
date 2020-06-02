@@ -9,7 +9,7 @@ const Scroll = (props) => {
         height: "800px",
       }}
     >
-      {props.children};
+      {props.children}
     </div>
   );
 };
